@@ -32,4 +32,19 @@ INSERT INTO employees (first_name, last_name, department_id, salary, hire_date, 
 ('Fiona', 'Taylor', 4, 72000, '2016-06-25', NULL);
 
 
+1. Count the total number of employees
+SELECT count(*) FROM employees
 
+2. Find the average salary of all employees
+SELECT avg(salary) FROM employees;
+
+3. Show the total salary expense for the company
+SELECT sum(salary) FROM employees;
+
+4. Count how many employees have a non-null email
+SELECT count(*)
+FROM employees
+where email  IS NOT NULL;
+
+5. Find the maximum and minimum salary in the company
+SELECT max(salary) , min(salary) FROM employees;
