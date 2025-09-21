@@ -1,0 +1,9 @@
+1.Count the total number of employees.
+
+2.Find the average salary of all employees.
+
+3.Show the total salary expense for the company.
+
+4.Count how many employees have a non-null email.
+
+5.Find the maximum and minimum salary in the company.
