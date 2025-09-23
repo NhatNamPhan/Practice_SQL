@@ -1,0 +1,9 @@
+1. List customers who placed more than 2 orders.
+
+2. Show product categories where the average order amount is greater than 300.
+
+3. Find customers whose total spending is more than 1000.
+
+4. Show categories that have at least 2 different products.
+
+5.List customers who bought products totaling more than 2,000 in 2023.
