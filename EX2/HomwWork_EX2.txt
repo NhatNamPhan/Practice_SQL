@@ -1,0 +1,9 @@
+1. Count how many orders each customer placed
+
+2. Show total sales amount per customer
+
+3. Find the average order amount for each city
+
+4. Show how many orders were placed in each month, year (by year and month)
+
+5. Find the hightest order amount per customer
