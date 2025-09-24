@@ -1,0 +1,10 @@
+Ex5: Arithmetic Operators
+1. Show each employee’s total income (base_salary + bonus).
+
+2. Show each employee’s annual salary ((base_salary + bonus) * 12).
+
+3. Calculate each employee’s tax amount ((base_salary + bonus) * tax_rate / 100).
+
+4. Show each employee’s salary after tax deduction.
+
+5 .Show the remainder when dividing each employee’s annual salary by 1000.
