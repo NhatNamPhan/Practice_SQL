@@ -1,3 +1,4 @@
+Ex1: Aggregate Functions
 1.Count the total number of employees.
 
 2.Find the average salary of all employees.

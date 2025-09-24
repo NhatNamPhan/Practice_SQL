@@ -1,3 +1,4 @@
+Ex2: SQL GROUP BY
 1. Count how many orders each customer placed
 
 2. Show total sales amount per customer

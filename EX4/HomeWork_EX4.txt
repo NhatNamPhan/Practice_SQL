@@ -1,0 +1,10 @@
+Ex4: DISTINCT
+1. Show all unique majors from the students table.
+
+2. List all distinct departments from the courses table.
+
+3 .Find all distinct semesters from the enrollments table.
+
+4 .Show all unique student IDs that appear in the enrollments table.
+
+5 .Count how many distinct majors exist among students.
