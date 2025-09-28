@@ -1,0 +1,10 @@
+Ex6: Math Functions
+1. Show the absolute difference between each product’s price and 500. (ABS())
+
+2. Round each product’s price to the nearest whole number. (ROUND())
+
+3. Round each product’s price up to the nearest integer. (CEIL())
+
+4. Round each product’s price down to the nearest integer. (FLOOR())
+
+5. Show the square root of each product’s price. (SQRT())
