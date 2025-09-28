@@ -1,0 +1,10 @@
+EX7: Division
+1. Show each student’s average score per exam (total_score / exams_taken).
+
+2. Show the average score per exam, rounded to 2 decimal places.
+
+3. Divide each student’s total score by 100 and show the result.
+
+4. Find the student with the highest average score per exam.
+
+5. Show each student’s average score per exam, but rounded down to the nearest integer.
