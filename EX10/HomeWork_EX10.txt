@@ -1,0 +1,10 @@
+Ex10: JOINS
+1. Show employee names with their department names.
+
+2. List all projects with their department names.
+
+3. Find employees who do not belong to any department.
+
+4. Show all departments with their employees (even if no employees).
+
+5 .Show all employees and all projects, matching by department (even if no match).

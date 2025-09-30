@@ -1,4 +1,4 @@
-EX7: Division
+Ex7: Division
 1. Show each student’s average score per exam (total_score / exams_taken).
 
 2. Show the average score per exam, rounded to 2 decimal places.
