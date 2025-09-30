@@ -1,0 +1,10 @@
+Ex9: CASE
+1. Label employees as "High" if salary > 50,000, otherwise "Low".
+
+2. Show each employee’s age group: <30 → 'Young', 30–50 → 'Mid', >50 → 'Senior'.
+
+3. Give a 10% bonus only if salary < 40,000, otherwise 5%.
+
+4. Categorize departments: 'IT' and 'Finance' → 'Technical', others → 'Non-Technical'.
+
+5. Assign grades based on salary: >=70,000 → 'A', 50,000–69,999 → 'B', <50,000 → 'C'.
