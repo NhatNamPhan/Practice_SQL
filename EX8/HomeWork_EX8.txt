@@ -1,0 +1,10 @@
+Ex8: NULL
+1. Show all employees who have no email address.
+
+2. Show all employees who have a phone number.
+
+3. Count how many employees have no manager assigned.
+
+4. Replace all NULL phone numbers with 'Unknown' using COALESCE().
+
+5. Show all employees where either email OR phone is missing.
