@@ -1,0 +1,10 @@
+Ex11: DATE Functions
+1. Show today’s date using CURRENT_DATE.
+
+2. Extract the year from each employee’s hire date.
+
+3. Find employees hired in 2020.
+
+4. Calculate how many years each employee has worked (hint: AGE() or DATE_PART).
+
+5. Show employees who were born in February.
