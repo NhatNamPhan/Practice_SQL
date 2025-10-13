@@ -1,0 +1,10 @@
+Ex12: Mixed Challenge
+1. Find the top 3 highest-paid employees per department.
+
+2. Show total project budget per department, only where total > 20,000.
+
+3. List all employees with distinct email domains (use SPLIT_PART(email, '@', 2)).
+
+4. Show each employee’s salary and rounded annual salary.
+
+5. Find the average salary per department, but exclude employees with NULL emails.
