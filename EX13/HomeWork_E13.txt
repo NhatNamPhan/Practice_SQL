@@ -1,0 +1,10 @@
+Ex13: Advanced intro
+1. Show each customer’s total order amount and sort them by total spending (highest first).
+
+2. Find all customers who placed more than one order.
+
+3. Show all orders placed in 2023, but only for customers from the USA.
+
+4. Find the total sales per country and order by total descending.
+
+5. Display each customer name and the average order amount they placed.
