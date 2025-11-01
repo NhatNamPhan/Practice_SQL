@@ -1,0 +1,10 @@
+EX 14: CTE vs Subquery
+1. Using a CTE, find the total order amount per customer and show only those with totals > 1000.
+
+2. Rewrite the previous query using a subquery instead of a CTE.
+
+3. Using a CTE, calculate each customer’s average order amount, then show those above the global average.
+
+4. Create a CTE that finds each customer’s highest order, and display it alongside their name.
+
+5. Find all customers who spent more than the average spending of all customers (use a subquery inside WHERE).
