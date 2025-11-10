@@ -1,0 +1,10 @@
+EX 15: 
+1. Rank employees by total sales (highest to lowest).
+
+2. Rank sales per region using RANK(), showing ties with the same rank.
+
+3. Rank sales per region using DENSE_RANK(), and compare with RANK().
+
+4. Assign a ROW_NUMBER() to each sale ordered by sale_amount descending.
+
+5. Find the top 2 sales per region using a window function filter.
