@@ -1,0 +1,10 @@
+EX 16: Window Aggregate Functions
+1. Show each sale with a running total of sale_amount ordered by sale_date.
+
+2. For each region, calculate a running total per region ordered by sale_date.
+
+3. Show each sale with the average sale_amount per region (using AVG() OVER (PARTITION BY region)).
+
+4. Find each customer’s total and average spending using window functions (no GROUP BY).
+
+5. Show each region’s sale and its difference from the previous sale (use LAG()).

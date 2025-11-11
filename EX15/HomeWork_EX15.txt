@@ -1,4 +1,4 @@
-EX 15: 
+EX 15: Window Function Practice 
 1. Rank employees by total sales (highest to lowest).
 
 2. Rank sales per region using RANK(), showing ties with the same rank.
