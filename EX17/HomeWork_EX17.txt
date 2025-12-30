@@ -1,0 +1,10 @@
+EX 17: Window Function
+1. Show each sale with the previous sale amount in the same region.
+
+2. Show each sale with the difference between the current sale and the previous sale (per region).
+ 
+3. Show each sale with the next sale amount in the same region.
+ 
+4. Calculate the percentage change from the previous sale per region.
+ 
+5. Show only the rows where the sale increased compared to the previous sale.
