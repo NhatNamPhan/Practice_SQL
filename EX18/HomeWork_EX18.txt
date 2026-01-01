@@ -1,0 +1,10 @@
+EX18: Exercises(ROWS & RANGE)
+1. Show each sale with a running total per region using ROWS.
+
+2. Show each sale with a 3-row moving average of sale_amount per region.
+
+3. Show each sale with a running total per region using RANGE.
+
+4. Compare ROWS vs RANGE results for the North region.
+
+5. Show each sale with the sum of the previous 2 sales and the current sale per region.
