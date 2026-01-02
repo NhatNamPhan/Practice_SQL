@@ -69,6 +69,7 @@ SELECT
 	manager_id,
 	level
 FROM org_hierarchy_CTO
+WHERE level > 1
 ORDER BY level, employee_id;
 
 3. Show the management chain for Developer A, starting from Developer A up to the CEO.
