@@ -1,0 +1,11 @@
+EX19: Recursive CTE (Hierarchies & Trees)
+1. Show the full organization hierarchy, including each employee’s level in the hierarchy (CEO = level 1).
+
+2. List all subordinates of the CTO, including both direct and indirect subordinates.
+
+3. Show the management chain for Developer A, starting from Developer A up to the CEO.
+
+4. Count how many employees report under each manager, including indirect subordinates.
+
+5. Display the organization hierarchy as a readable path
+(example: CEO > CTO > Dev Manager > Developer A).
