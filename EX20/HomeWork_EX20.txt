@@ -1,0 +1,55 @@
+Summary: Advanced JOIN Patterns
+Exercise 1: Self Join  
+1. Show each employee along with their manager’s name.
+
+2. List employees who have the same manager.
+
+3. Find managers who manage more than 1 employee.
+
+4. Show employees who do not have a manager.
+
+5. Display employee–manager pairs ordered by manager name.
+
+Exercise 2: INNER vs LEFT JOIN
+1. Show each employee along with their manager’s name.
+
+2. List employees who have the same manager.
+
+3. Find managers who manage more than 1 employee.
+
+4. Show employees who do not have a manager.
+
+5. Display employee–manager pairs ordered by manager name.
+
+Exercise 3: Anti Join (NOT EXISTS/LEFT JOIN IS NULL)
+1. Show all employees and their department names.
+
+2. Show all employees, including those without a department.
+
+3. Find departments that currently have no employees.
+
+4. Count employees per department (include empty departments).
+
+5. Show only employees who belong to a department.
+
+Exercise 4: Semi Join (IN/EXISTS)
+1. List customers who have placed at least one order.
+
+2. Show employees who manage at least one other employee.
+
+3. Find products that appear in at least one order.
+
+4. Show departments that have employees earning more than 50,000.
+
+5. List customers who placed orders in 2023.
+
+Exercise 5: Advanced Join Scenarios
+1. Show employees who work in the same department as “Alice”.
+
+2. Find customers who ordered the same product more than once.
+
+3. List employees who earn more than the average salary in their department.
+
+4. Show departments where all employees earn more than 40,000.
+
+5. Find managers whose subordinates earn more than they do.
